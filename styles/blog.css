@@ -5,6 +5,10 @@ h1{
     color: white;
     height: 100px;
     text-align: center;
+    border-bottom: 7px solid gold;
+}
+h2{
+    /* border-bottom: 3px solid white; */
 }
 div{
     background-color: mediumseagreen;
@@ -13,4 +17,5 @@ div{
     color: white;
     padding: 10px;
     margin-bottom: 20px;
+    border-left: 5px solid gold;
 }
